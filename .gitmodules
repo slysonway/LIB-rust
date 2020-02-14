@@ -1,0 +1,6 @@
+[submodule "ppm"]
+	path = ppm
+	url = https://github.com/slysonway/rust-ppm.git
+[submodule "useppm"]
+	path = useppm
+	url = https://github.com/slysonway/use-ppm.git
