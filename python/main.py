@@ -1,5 +1,5 @@
 from ctypes import cdll
-lib = cdll.LoadLibrary("../ppm/target/debug/libppm.dylib")
+lib = cdll.LoadLibrary("../ppm/target/release/libppm.dylib")
 
 print(lib.dummy())
 
