@@ -1,3 +1,8 @@
+## Elise ALLIROL
+## Pierre KETTMUS
+## Thomas FERREIRA DE VIVEIROS
+## Corentin MARTINEZ
+
 This project is divided in two parts. 
 A library of functions to open or create ppm pictures and a programm wich use the library.
 The library is located in the folder rust-lib. This folder also contains the library documentation and it's tests.
