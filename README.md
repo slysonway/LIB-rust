@@ -1,5 +1,5 @@
 ## Elise ALLIROL
-## Pierre KETTMUS
+## Pierre KETTMUS-FAYAD
 ## Thomas FERREIRA DE VIVEIROS
 ## Corentin MARTINEZ
 
